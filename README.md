@@ -1,4 +1,6 @@
 # Huffman-Coding
+## DEVELOPED BY : SAJITH AHAMED F
+## REG NO : 212223240144
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
